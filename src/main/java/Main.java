@@ -4,6 +4,8 @@ import model.Meat;
 import model.constants.Colour;
 import service.ShoppingCart;
 
+//Для того что бы внести изменения
+
 public class Main {
     public static void main(String[] args) {
 
